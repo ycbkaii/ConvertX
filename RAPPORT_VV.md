@@ -23,7 +23,12 @@ Le projet est distribué sous la forme d'une image docker hebergé sur le github
 
 
 ## Identifier et analyser les méthodes de vérification mises en place dans ce projet
+Dans le projet, les contributeurs ont effectués différents types de tests, qu'on peut retrouver dans le dossier **```tests/```**
 
+```
+
+
+```
 
 
 ## proposer des méthodes permettant d'étendre la couverture des différents aspects à vérifier et valider
