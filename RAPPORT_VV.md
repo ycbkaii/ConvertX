@@ -25,13 +25,17 @@ Le projet est distribué sous la forme d'une image docker hebergé sur le github
 ## Identifier et analyser les méthodes de vérification mises en place dans ce projet
 Dans le projet, les contributeurs ont effectués différents types de tests, qu'on peut retrouver dans le dossier **```tests/```**
 
-```
+### Tests Unitaires 
+
+Nous pouvons observer qu'il y a différents cas de Tests unitaires, qui suivent le modèle AAA (Arrange - Act - Assert).
+Les tests unitaires sont effectués sur tout ce qui concerne les convertisseurs entre les différents fichiers, ainsi que sur la connexion / inscription de compte, on voit aussi des TU sur l'initialisation de la BDD
+
+### Tests d'intégrations
+Il y a des tests d'intégrations pour vérifier si l'utilisateur a bien toutes les dépendances nécessaires pour faire tourner l'outil
 
 
-```
-
-
-## proposer des méthodes permettant d'étendre la couverture des différents aspects à vérifier et valider
+## Proposer des méthodes permettant d'étendre la couverture des différents aspects à vérifier et valider
+Tests Métamorphique, Quelques TU, Tests d'intégrations
 
 ## un regard critique sur ce qui a été réalisé (est-ce que les objectifs ont été atteints ? Qu'est-ce que ça apporte sur la qualité du projet ? Que faire différemment ? C'est quoi la prochaine étape ?)
 
