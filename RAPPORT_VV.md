@@ -35,7 +35,7 @@ Il y a des tests d'intégrations pour vérifier si l'utilisateur a bien toutes l
 
 
 ## Proposer des méthodes permettant d'étendre la couverture des différents aspects à vérifier et valider
-Tests Métamorphique, Quelques TU, Tests d'intégrations
+Tests Métamorphique, Quelques TU, Tests d'intégrations, Tests de performances (tests de non régression)
 
 ## un regard critique sur ce qui a été réalisé (est-ce que les objectifs ont été atteints ? Qu'est-ce que ça apporte sur la qualité du projet ? Que faire différemment ? C'est quoi la prochaine étape ?)
 
